@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+}
+
+
+.wrapper{
+    width: 1200px;
+    height: 600px;
+    margin: 0 auto;
+    position: relative;
+background-image: url(images-coco/coco.jpg);
+background-size: 100%;
+
+
+
+}
+
+.inhoud{
+    width: 50%;
+    float: right;
+}
+
+
+h1{
+    color:white;
+
+
+}
+
+h3{
+    color: white;
+    font-size: 20px;
+}
+
+
+a{
+
+color: black;
+
+
+}
+
